@@ -1,0 +1,7 @@
+.fake/
+.paket/paket.exe
+.paket/paket.targets
+build/
+bin/
+obj/
+packages/
