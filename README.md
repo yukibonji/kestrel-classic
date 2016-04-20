@@ -1,6 +1,9 @@
-# kestrel-classic [![Travis build status](https://travis-ci.org/CumpsD/kestrel-classic.png)](https://travis-ci.org/CumpsD/kestrel-classic)
+# kestrel-classic 
 
 Sample project to get Kestrel working with classic .NET 4.6.1 using F#
+
+ * Mono [![Travis build status](https://travis-ci.org/CumpsD/kestrel-classic.png)](https://travis-ci.org/CumpsD/kestrel-classic)
+ * Windows [![Build status](https://ci.appveyor.com/api/projects/status/5pkt55afbmu7i744/branch/master?svg=true)](https://ci.appveyor.com/project/CumpsD/kestrel-classic/branch/master)
 
 ## Usage
 
