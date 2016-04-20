@@ -6,3 +6,5 @@ bin/
 obj/
 packages/
 .vs/
+output.log
+errorOutput.log
