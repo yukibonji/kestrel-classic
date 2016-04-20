@@ -5,7 +5,7 @@ Sample project to get Kestrel working with classic .NET 4.6.1 using F#
 ## Usage
 
 * Clone and run `build.cmd`
-* then run `build\kestrel-classic.exe`
+* Then run `build\kestrel-classic.exe`
 
 ```
 Hosting environment: Production
