@@ -2,6 +2,7 @@
 if test "$OS" = "Windows_NT"
 then
   # todo?
+  :
 else
   # use mono
   echo "Starting server"
