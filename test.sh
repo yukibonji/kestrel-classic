@@ -6,7 +6,7 @@ then
 else
   # use mono
   echo "Starting server"
-  mono build\kestrel-classic.exe 2> errorOutput.log > output.log &
+  mono build/kestrel-classic.exe 2> errorOutput.log > output.log &
   pid=$!
 
   wait "$pid"
