@@ -6,3 +6,4 @@ bin/
 obj/
 packages/
 .vs/
+deploy/ApplicationName.0.1.zip

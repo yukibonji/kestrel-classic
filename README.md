@@ -1,7 +1,7 @@
-Clone and run `build.cmd`
+* Clone and run `build.cmd`
+* then run `build\kestrel-classic.exe`
 
 ```
-λ build\kestrel-classic.exe
 Hosting environment: Production
 Content root path: C:\kestrel-classic
 Now listening on: http://localhost:5000
