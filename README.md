@@ -14,7 +14,7 @@ Now listening on: http://localhost:5000
 Application started. Press Ctrl+C to shut down.
 ```
 
-Visit http://localhost:5000
+ * Visit http://localhost:5000
 
 ## Copyright
 
