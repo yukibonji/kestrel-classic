@@ -1,4 +1,4 @@
-# kestrel-classic 
+# kestrel-future
 
 Sample project to get Kestrel working with classic .NET 4.6.1 using F#
 
